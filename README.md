@@ -5,7 +5,7 @@ Social media has become a part to our daily routine, through multiple social pla
 
 Table of Contents
 =================
-  * [Full Documentation](https://arxiv.org/abs/1808.02215)
+  * [Full Documentation](https://github.com/olivierlam97/EPFL-SemesterProject-YouTube/blob/master/project_report.pdf)
   * [Datasets](#datasets)
   * [Quickstart](#quickstart)
   * [Author](#author)
